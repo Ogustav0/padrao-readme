@@ -62,3 +62,20 @@ cd meu-projeto
 code . 
 
 ```
+
+## Mapa do Projeto
+```bash
++---img                     // contem as imagens do README
++---temp                    // Paste temp para gerar tree
+ª   +---temp-1              // Paste temp para gerar tree
+ª   +---temp-2              // Paste temp para gerar tree        
++---temp copy               // Paste temp para gerar tree
+    +---temp-1              // Paste temp para gerar tree
+    +---temp-2              // Paste temp para gerar tree
+```
+
+## tecnologias utilizadas
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+- [MARKDOWN](https://www.markdownguide.org/)
+- [abobora](www.google.com)
