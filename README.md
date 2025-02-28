@@ -30,3 +30,35 @@ Em seguida, é importante detalhar como configurar e usar o projeto. Forneça in
 <ul>
     <li><a href="#descrição-do-projeto"> Descrição do projeto</a></li>
 </ul>
+
+## status do projeto 
+
+<h4 align= center>
+EM construção :rocket:
+</h4>
+
+## Features
+
+- [x] README COM MARKDOWN
+- [x] README COM HTML 
+- [] BADGE
+
+## PRE-REQUISITOS
+
+- [VSCode](https://code.visualstudio.com/)
+- [GitHub](https://git-scm.com/)
+
+## Executar o Projeto 
+
+```bash
+
+#Clone do repositorio
+git clone <patch do repositorio>
+
+# Acesse a pasta do projeto via terminal
+cd meu-projeto 
+
+# Abrir o vscode no <path do repositorio>
+code . 
+
+```
